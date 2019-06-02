@@ -97,11 +97,11 @@ msgstr ""
 
 #: handlers/favorites.py:34
 msgid "Added to your playlist (/my)"
-msgstr ""
+msgstr "Ijro ro'yxatingizga qo'shildi"
 
 #: handlers/favorites.py:47
 msgid "Removed from your playlist"
-msgstr ""
+msgstr "Ijro ro'yxatingizdan olindi"
 
 #: handlers/help.py:16
 msgid "🔥 Commands"
@@ -110,27 +110,27 @@ msgstr ""
 #: handlers/help.py:17 handlers/start.py:37
 msgid ""
 "Just send me an artist and/or a song name and I will find music for you!"
-msgstr ""
+msgstr "Menga qo'shiq nomi va/yoki artistni jonat, men senga musiqani topib beraman"
 
 #: handlers/help.py:18 handlers/start.py:38
 msgid "/song — search by song title"
-msgstr ""
+msgstr "/qo'shiq - qo'shiq nomi bilan izlash"
 
 #: handlers/help.py:19 handlers/start.py:39
 msgid "/artist — search for artist name"
-msgstr ""
+msgstr "/artist - artist nomini izlash"
 
 #: handlers/help.py:20
 msgid "/my — list your playlist"
-msgstr ""
+msgstr "/ meni - ijro ro'yxatini tuzmoq"
 
 #: handlers/help.py:21
 msgid "/top — popular songs"
-msgstr ""
+msgstr "/top - mashhur qo'shiqlar"
 
 #: handlers/help.py:22 handlers/start.py:41
 msgid "/settings — change settings"
-msgstr ""
+msgstr "/sozlamalar - sozlamalarni o'zgartirish"
 
 #: handlers/help.py:23
 msgid "/donate — support authors"
